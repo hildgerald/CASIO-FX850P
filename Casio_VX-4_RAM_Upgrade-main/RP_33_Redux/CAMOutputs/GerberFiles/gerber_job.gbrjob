@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-12-12T19:09:25Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ram"
+        },
+        "Owner": "Jeffrey Birt <birtj@mst.edu>",
+        "Size": {
+            "X": 35.800019,
+            "Y": 47.999988
+        }
+    }
+}

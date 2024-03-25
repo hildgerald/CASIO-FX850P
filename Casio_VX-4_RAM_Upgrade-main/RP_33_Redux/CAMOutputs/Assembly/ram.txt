@@ -1,0 +1,6 @@
+Partlist exported from C:/Users/Jeff.000/OneDrive/Vintage_Computers/Casio/RP-33/Iceloard_RP-33 RAM PCB/TSOP Version/ram.sch at 12/12/2021 1:09 PM
+
+Qty Value          Device                 Package  Parts Description                POPULARITY SPICEPREFIX
+1   0.1u           C-USC0603              C0603    C1    CAPACITOR, American symbol 37         C          
+1   KM62256CLTG-7L KM62256CLTG-7L_TSOP28F TSOP1-28 IC1   MEMORY                                           
+1   RAMPORT        RAMPORT                CASIORAM U$1                                                    

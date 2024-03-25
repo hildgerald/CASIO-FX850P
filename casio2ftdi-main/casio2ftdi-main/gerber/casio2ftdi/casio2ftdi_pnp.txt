@@ -1,0 +1,46 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=casio2ftdi
+*Date=20:05:14
+*CreatedBy=Fritzing 0.9.9b.2021-09-22.CD-348-0-f0af53a9
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;0;0805 [SMD];31.1915;-11.5348;180;Top;R2
+2;;;21.5894;-10.5689;0;Bottom;TXT1
+3;0.030;0805 [SMD];35.6365;-11.5348;180;Top;TX
+4;0.030;0805 [SMD];35.6365;-14.0748;180;Top;RX
+5;;;3.02585;-3.01187;0;Bottom;IMG1
+6;;;31.1405;-15.5286;0;Bottom;Copper Fill6
+7;50;0805 [SMD];31.1915;-14.0748;180;Top;R1
+8;;;35.0473;-1.35126;0;Bottom;TXT2
+9;;;19.4565;-8.5182;0;Bottom;Copper Fill1
+10;;;10.1728;-13.4585;0;Bottom;Copper Fill4
+11;;;33.3414;-7.08986;0;Bottom;Via2
+12;;;34.3155;-12.7854;0;Bottom;Copper Fill8
+13;;THT;17.4665;-13.4398;-90;Bottom;ftdi header
+14;;;19.4565;-8.5182;0;Bottom;Copper Fill5
+15;;;34.3917;-7.17197;0;Bottom;Copper Fill13
+16;;;15.6973;-10.9058;0;Bottom;Copper Fill3
+17;;;26.3907;-9.4072;0;Bottom;Copper Fill11
+18;;;2.98813;-10.4702;90;Bottom;TXT2
+19;;THT;19.2316;-7.08985;-90;Bottom;bottom row
+20;;;22.5553;-12.5822;0;Bottom;Copper Fill9
+21;;THT;19.2316;-8.35985;-90;Bottom;top row
+22;;;30.6579;-7.19737;0;Bottom;Copper Fill12
+23;;;33.3414;-15.9799;0;Bottom;Via1
+24;;;2.95495;-4.02713;90;Bottom;TXT2
+25;;;24.7905;-10.982;0;Bottom;Copper Fill2
+26;;;32.7915;-9.6612;0;Bottom;Copper Fill10
+27;;;34.1;-1.38882;0;Bottom;TXT4
+28;1k;0805 [SMD];31.0465;-8.99483;-7.3153e-14;Top;R3
+29;1k;0805 [SMD];35.6326;-8.99483;-1.04958e-13;Top;R3
+30;;;37.1095;-15.5286;0;Bottom;Copper Fill7
+31;;;13.461;-10.5907;0;Bottom;TXT1
